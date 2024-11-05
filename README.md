@@ -1,0 +1,1 @@
+Laboratorio de tests paramétricos, módulo 6 estadística. 
